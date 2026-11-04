@@ -1,0 +1,9 @@
+{
+  "name": "salute-pwa",
+  "private": true,
+  "type": "module",
+  "description": "Web app personale per salute e allenamento (nessuna dipendenza).",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\""
+  }
+}
