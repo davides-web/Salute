@@ -100,8 +100,8 @@ input[type=checkbox] { width: 28px; min-height: 28px; height: 28px; flex: none; 
 .spunta { display: flex; align-items: center; gap: 12px; color: var(--testo); font-size: 1rem; margin: 10px 0; }
 .campi { display: grid; grid-template-columns: 1fr 1fr; gap: 0 10px; }
 .contatore { display: flex; gap: 6px; align-items: stretch; }
-.contatore button { flex: none; width: 56px; font-size: 1.5rem; }
-.contatore input { text-align: center; }
+.contatore button { flex: none; width: 44px; padding: 0; font-size: 1.5rem; }
+.contatore input { text-align: center; min-width: 0; padding: 8px 2px; -moz-appearance: textfield; }
 .avviso { background: color-mix(in srgb, var(--lavoro) 14%, var(--carta)); border: 1px solid var(--lavoro); border-radius: var(--raggio); padding: 10px 12px; margin: 0 0 12px; font-size: .9rem; }
 .ok { background: color-mix(in srgb, var(--recupero) 14%, var(--carta)); border-color: var(--recupero); }
 .vuoto { color: var(--muto); text-align: center; padding: 16px 0; }
