@@ -1,0 +1,589 @@
+Day,Time,Group,Food Name,Amount,Unit,Category,Energy (kcal),Protein (g),Fat (g),Carbs (g),Fiber (g),Sodium (mg),Potassium (mg)
+2026-09-14,07:30,Breakfast,Yogurt greco naturale,54,g,Alimenti,157,11,5.2,16.5,2.1,451,545
+2026-09-14,07:30,Breakfast,Avena,188,g,Alimenti,157,11,5.2,16.5,5.7,138,547
+2026-09-14,07:30,Breakfast,Banana,100,g,Alimenti,157,11,5.2,16.5,1.3,18,585
+2026-09-14,13:00,Lunch,Pasta integrale,50,g,Alimenti,177,12.4,5.9,18.6,0.9,44,510
+2026-09-14,13:00,Lunch,Petto di pollo,150,g,Alimenti,177,12.4,5.9,18.6,1.9,420,561
+2026-09-14,13:00,Lunch,Insalata mista,109,g,Alimenti,177,12.4,5.9,18.6,3.4,60,379
+2026-09-14,13:00,Lunch,Olio extravergine,163,g,Alimenti,177,12.4,5.9,18.6,2.3,493,548
+2026-09-14,16:30,Snacks,Mandorle,165,g,Alimenti,107,7.5,3.6,11.2,2.8,299,435
+2026-09-14,16:30,Snacks,Mela,140,g,Alimenti,107,7.5,3.6,11.2,3.5,7,428
+2026-09-14,20:00,Dinner,Salmone al forno,145,g,Alimenti,250,17.5,8.3,26.2,2.8,354,569
+2026-09-14,20:00,Dinner,Patate,81,g,Alimenti,250,17.5,8.3,26.2,4.2,31,230
+2026-09-14,20:00,Dinner,Verdure grigliate,112,g,Alimenti,250,17.5,8.3,26.2,3.5,451,525
+2026-09-15,07:30,Breakfast,Yogurt greco naturale,249,g,Alimenti,147,10.3,4.9,15.4,1.8,374,254
+2026-09-15,07:30,Breakfast,Avena,118,g,Alimenti,147,10.3,4.9,15.4,3.1,30,150
+2026-09-15,07:30,Breakfast,Banana,56,g,Alimenti,147,10.3,4.9,15.4,4.4,200,600
+2026-09-15,13:00,Lunch,Pasta integrale,211,g,Alimenti,165,11.6,5.5,17.3,2.3,265,544
+2026-09-15,13:00,Lunch,Petto di pollo,60,g,Alimenti,165,11.6,5.5,17.3,4.6,70,399
+2026-09-15,13:00,Lunch,Insalata mista,143,g,Alimenti,165,11.6,5.5,17.3,2.5,300,346
+2026-09-15,13:00,Lunch,Olio extravergine,139,g,Alimenti,165,11.6,5.5,17.3,3.4,299,237
+2026-09-15,16:30,Snacks,Mandorle,185,g,Alimenti,100,7,3.3,10.5,1.9,93,177
+2026-09-15,16:30,Snacks,Mela,242,g,Alimenti,100,7,3.3,10.5,4.4,39,198
+2026-09-15,20:00,Dinner,Salmone al forno,142,g,Alimenti,234,16.3,7.8,24.5,4.9,388,162
+2026-09-15,20:00,Dinner,Patate,103,g,Alimenti,234,16.3,7.8,24.5,2,227,184
+2026-09-15,20:00,Dinner,Verdure grigliate,232,g,Alimenti,234,16.3,7.8,24.5,5.7,458,268
+2026-09-16,07:30,Breakfast,Yogurt greco naturale,64,g,Alimenti,141,9.9,4.7,14.8,4.2,48,261
+2026-09-16,07:30,Breakfast,Avena,76,g,Alimenti,141,9.9,4.7,14.8,3.8,85,365
+2026-09-16,07:30,Breakfast,Banana,216,g,Alimenti,141,9.9,4.7,14.8,1.6,365,474
+2026-09-16,13:00,Lunch,Pasta integrale,212,g,Alimenti,159,11.1,5.3,16.6,3.3,115,69
+2026-09-16,13:00,Lunch,Petto di pollo,55,g,Alimenti,159,11.1,5.3,16.6,4.7,89,283
+2026-09-16,13:00,Lunch,Insalata mista,207,g,Alimenti,159,11.1,5.3,16.6,5.5,450,201
+2026-09-16,13:00,Lunch,Olio extravergine,72,g,Alimenti,159,11.1,5.3,16.6,3.6,144,283
+2026-09-16,16:30,Snacks,Mandorle,118,g,Alimenti,96,6.7,3.2,10.1,2.1,403,165
+2026-09-16,16:30,Snacks,Mela,194,g,Alimenti,96,6.7,3.2,10.1,4.3,280,405
+2026-09-16,20:00,Dinner,Salmone al forno,221,g,Alimenti,224,15.7,7.5,23.5,4.3,173,164
+2026-09-16,20:00,Dinner,Patate,215,g,Alimenti,224,15.7,7.5,23.5,3.2,18,358
+2026-09-16,20:00,Dinner,Verdure grigliate,139,g,Alimenti,224,15.7,7.5,23.5,3.4,252,202
+2026-09-17,07:30,Breakfast,Yogurt greco naturale,211,g,Alimenti,142,10,4.7,14.9,0.6,175,581
+2026-09-17,07:30,Breakfast,Avena,136,g,Alimenti,142,10,4.7,14.9,5.9,127,329
+2026-09-17,07:30,Breakfast,Banana,101,g,Alimenti,142,10,4.7,14.9,5.6,64,306
+2026-09-17,13:00,Lunch,Pasta integrale,223,g,Alimenti,160,11.2,5.3,16.8,5.4,338,61
+2026-09-17,13:00,Lunch,Petto di pollo,124,g,Alimenti,160,11.2,5.3,16.8,3,253,206
+2026-09-17,13:00,Lunch,Insalata mista,112,g,Alimenti,160,11.2,5.3,16.8,1.3,480,597
+2026-09-17,13:00,Lunch,Olio extravergine,69,g,Alimenti,160,11.2,5.3,16.8,3.9,448,298
+2026-09-17,16:30,Snacks,Mandorle,147,g,Alimenti,97,6.8,3.2,10.2,5.8,50,529
+2026-09-17,16:30,Snacks,Mela,54,g,Alimenti,97,6.8,3.2,10.2,0.7,383,500
+2026-09-17,20:00,Dinner,Salmone al forno,165,g,Alimenti,226,15.9,7.5,23.8,1.9,153,362
+2026-09-17,20:00,Dinner,Patate,239,g,Alimenti,226,15.9,7.5,23.8,5.8,334,161
+2026-09-17,20:00,Dinner,Verdure grigliate,105,g,Alimenti,226,15.9,7.5,23.8,4.4,15,481
+2026-09-18,07:30,Breakfast,Yogurt greco naturale,89,g,Alimenti,130,9.1,4.3,13.7,2.4,362,424
+2026-09-18,07:30,Breakfast,Avena,192,g,Alimenti,130,9.1,4.3,13.7,5.9,358,473
+2026-09-18,07:30,Breakfast,Banana,59,g,Alimenti,130,9.1,4.3,13.7,4.8,326,297
+2026-09-18,13:00,Lunch,Pasta integrale,162,g,Alimenti,147,10.3,4.9,15.4,4.2,479,554
+2026-09-18,13:00,Lunch,Petto di pollo,106,g,Alimenti,147,10.3,4.9,15.4,6,421,180
+2026-09-18,13:00,Lunch,Insalata mista,107,g,Alimenti,147,10.3,4.9,15.4,1.1,230,163
+2026-09-18,13:00,Lunch,Olio extravergine,82,g,Alimenti,147,10.3,4.9,15.4,4.6,376,486
+2026-09-18,16:30,Snacks,Mandorle,71,g,Alimenti,89,6.2,3,9.3,3.6,9,279
+2026-09-18,16:30,Snacks,Mela,78,g,Alimenti,89,6.2,3,9.3,3,231,340
+2026-09-18,20:00,Dinner,Salmone al forno,70,g,Alimenti,207,14.5,6.9,21.8,5.1,365,567
+2026-09-18,20:00,Dinner,Patate,160,g,Alimenti,207,14.5,6.9,21.8,4.9,289,103
+2026-09-18,20:00,Dinner,Verdure grigliate,56,g,Alimenti,207,14.5,6.9,21.8,4.6,299,454
+2026-09-19,07:30,Breakfast,Yogurt greco naturale,199,g,Alimenti,201,14.1,6.7,21.1,1,218,272
+2026-09-19,07:30,Breakfast,Avena,94,g,Alimenti,201,14.1,6.7,21.1,5.4,107,224
+2026-09-19,07:30,Breakfast,Banana,76,g,Alimenti,201,14.1,6.7,21.1,3.8,291,535
+2026-09-19,13:00,Lunch,Pasta integrale,99,g,Alimenti,226,15.8,7.5,23.7,5.8,163,147
+2026-09-19,13:00,Lunch,Petto di pollo,229,g,Alimenti,226,15.8,7.5,23.7,3.3,426,426
+2026-09-19,13:00,Lunch,Insalata mista,246,g,Alimenti,226,15.8,7.5,23.7,1.1,425,350
+2026-09-19,13:00,Lunch,Olio extravergine,216,g,Alimenti,226,15.8,7.5,23.7,3.4,11,370
+2026-09-19,16:30,Snacks,Mandorle,146,g,Alimenti,137,9.6,4.6,14.4,2.5,349,416
+2026-09-19,16:30,Snacks,Mela,216,g,Alimenti,137,9.6,4.6,14.4,0.8,69,432
+2026-09-19,20:00,Dinner,Salmone al forno,102,g,Alimenti,320,22.4,10.7,33.6,0.5,212,72
+2026-09-19,20:00,Dinner,Patate,76,g,Alimenti,320,22.4,10.7,33.6,4.2,358,549
+2026-09-19,20:00,Dinner,Verdure grigliate,234,g,Alimenti,320,22.4,10.7,33.6,1.5,150,210
+2026-09-20,07:30,Breakfast,Yogurt greco naturale,140,g,Alimenti,150,10.5,5,15.7,5.7,354,497
+2026-09-20,07:30,Breakfast,Avena,147,g,Alimenti,150,10.5,5,15.7,1.4,409,343
+2026-09-20,07:30,Breakfast,Banana,79,g,Alimenti,150,10.5,5,15.7,5.7,103,98
+2026-09-20,13:00,Lunch,Pasta integrale,181,g,Alimenti,168,11.8,5.6,17.7,0.5,433,571
+2026-09-20,13:00,Lunch,Petto di pollo,211,g,Alimenti,168,11.8,5.6,17.7,4.5,178,221
+2026-09-20,13:00,Lunch,Insalata mista,205,g,Alimenti,168,11.8,5.6,17.7,5,110,481
+2026-09-20,13:00,Lunch,Olio extravergine,227,g,Alimenti,168,11.8,5.6,17.7,1.8,313,542
+2026-09-20,16:30,Snacks,Mandorle,103,g,Alimenti,102,7.1,3.4,10.7,4.2,285,557
+2026-09-20,16:30,Snacks,Mela,82,g,Alimenti,102,7.1,3.4,10.7,5.3,21,422
+2026-09-20,20:00,Dinner,Salmone al forno,233,g,Alimenti,238,16.7,7.9,25,3.9,203,481
+2026-09-20,20:00,Dinner,Patate,124,g,Alimenti,238,16.7,7.9,25,1.1,141,182
+2026-09-20,20:00,Dinner,Verdure grigliate,168,g,Alimenti,238,16.7,7.9,25,2.8,313,237
+2026-09-21,07:30,Breakfast,Yogurt greco naturale,101,g,Alimenti,130,9.1,4.3,13.6,5.3,235,198
+2026-09-21,07:30,Breakfast,Avena,232,g,Alimenti,130,9.1,4.3,13.6,5.3,315,184
+2026-09-21,07:30,Breakfast,Banana,232,g,Alimenti,130,9.1,4.3,13.6,1,270,206
+2026-09-21,13:00,Lunch,Pasta integrale,100,g,Alimenti,146,10.2,4.9,15.3,4.8,231,520
+2026-09-21,13:00,Lunch,Petto di pollo,88,g,Alimenti,146,10.2,4.9,15.3,0.9,485,283
+2026-09-21,13:00,Lunch,Insalata mista,71,g,Alimenti,146,10.2,4.9,15.3,3.7,139,145
+2026-09-21,13:00,Lunch,Olio extravergine,208,g,Alimenti,146,10.2,4.9,15.3,4.5,346,211
+2026-09-21,16:30,Snacks,Mandorle,210,g,Alimenti,88,6.2,2.9,9.3,5.6,148,588
+2026-09-21,16:30,Snacks,Mela,171,g,Alimenti,88,6.2,2.9,9.3,5.2,195,388
+2026-09-21,20:00,Dinner,Salmone al forno,54,g,Alimenti,206,14.4,6.9,21.6,3.7,227,447
+2026-09-21,20:00,Dinner,Patate,217,g,Alimenti,206,14.4,6.9,21.6,3.7,32,152
+2026-09-21,20:00,Dinner,Verdure grigliate,187,g,Alimenti,206,14.4,6.9,21.6,2,108,459
+2026-09-22,07:30,Breakfast,Yogurt greco naturale,150,g,Alimenti,156,10.9,5.2,16.3,2.7,112,142
+2026-09-22,07:30,Breakfast,Avena,157,g,Alimenti,156,10.9,5.2,16.3,3.1,97,332
+2026-09-22,07:30,Breakfast,Banana,241,g,Alimenti,156,10.9,5.2,16.3,5,269,240
+2026-09-22,13:00,Lunch,Pasta integrale,99,g,Alimenti,175,12.3,5.8,18.4,3.3,301,461
+2026-09-22,13:00,Lunch,Petto di pollo,95,g,Alimenti,175,12.3,5.8,18.4,3.6,361,505
+2026-09-22,13:00,Lunch,Insalata mista,117,g,Alimenti,175,12.3,5.8,18.4,5.2,181,147
+2026-09-22,13:00,Lunch,Olio extravergine,224,g,Alimenti,175,12.3,5.8,18.4,1.3,344,161
+2026-09-22,16:30,Snacks,Mandorle,78,g,Alimenti,106,7.4,3.5,11.1,3.1,266,159
+2026-09-22,16:30,Snacks,Mela,87,g,Alimenti,106,7.4,3.5,11.1,4.5,133,108
+2026-09-22,20:00,Dinner,Salmone al forno,127,g,Alimenti,248,17.3,8.3,26,5.3,124,256
+2026-09-22,20:00,Dinner,Patate,196,g,Alimenti,248,17.3,8.3,26,4.7,98,588
+2026-09-22,20:00,Dinner,Verdure grigliate,171,g,Alimenti,248,17.3,8.3,26,5.3,47,100
+2026-09-23,07:30,Breakfast,Yogurt greco naturale,231,g,Alimenti,131,9.2,4.4,13.8,2.4,185,216
+2026-09-23,07:30,Breakfast,Avena,107,g,Alimenti,131,9.2,4.4,13.8,5.1,260,592
+2026-09-23,07:30,Breakfast,Banana,226,g,Alimenti,131,9.2,4.4,13.8,3.2,313,126
+2026-09-23,13:00,Lunch,Pasta integrale,80,g,Alimenti,148,10.3,4.9,15.5,5.7,105,158
+2026-09-23,13:00,Lunch,Petto di pollo,176,g,Alimenti,148,10.3,4.9,15.5,3.3,21,583
+2026-09-23,13:00,Lunch,Insalata mista,109,g,Alimenti,148,10.3,4.9,15.5,2.6,459,519
+2026-09-23,13:00,Lunch,Olio extravergine,234,g,Alimenti,148,10.3,4.9,15.5,2.5,207,588
+2026-09-23,16:30,Snacks,Mandorle,62,g,Alimenti,89,6.3,3,9.4,5.9,416,520
+2026-09-23,16:30,Snacks,Mela,121,g,Alimenti,89,6.3,3,9.4,2.8,200,380
+2026-09-23,20:00,Dinner,Salmone al forno,169,g,Alimenti,209,14.6,7,21.9,1.3,440,131
+2026-09-23,20:00,Dinner,Patate,90,g,Alimenti,209,14.6,7,21.9,5.9,385,139
+2026-09-23,20:00,Dinner,Verdure grigliate,169,g,Alimenti,209,14.6,7,21.9,5.6,218,363
+2026-09-24,07:30,Breakfast,Yogurt greco naturale,67,g,Alimenti,142,9.9,4.7,14.9,0.9,324,316
+2026-09-24,07:30,Breakfast,Avena,215,g,Alimenti,142,9.9,4.7,14.9,1.8,164,186
+2026-09-24,07:30,Breakfast,Banana,249,g,Alimenti,142,9.9,4.7,14.9,3.5,193,571
+2026-09-24,13:00,Lunch,Pasta integrale,163,g,Alimenti,160,11.2,5.3,16.8,2.3,317,214
+2026-09-24,13:00,Lunch,Petto di pollo,171,g,Alimenti,160,11.2,5.3,16.8,1.6,363,366
+2026-09-24,13:00,Lunch,Insalata mista,105,g,Alimenti,160,11.2,5.3,16.8,5.3,273,215
+2026-09-24,13:00,Lunch,Olio extravergine,236,g,Alimenti,160,11.2,5.3,16.8,4.3,328,63
+2026-09-24,16:30,Snacks,Mandorle,93,g,Alimenti,97,6.8,3.2,10.2,5.1,382,563
+2026-09-24,16:30,Snacks,Mela,126,g,Alimenti,97,6.8,3.2,10.2,4.7,14,476
+2026-09-24,20:00,Dinner,Salmone al forno,95,g,Alimenti,226,15.8,7.5,23.7,0.9,178,518
+2026-09-24,20:00,Dinner,Patate,249,g,Alimenti,226,15.8,7.5,23.7,0.5,342,393
+2026-09-24,20:00,Dinner,Verdure grigliate,96,g,Alimenti,226,15.8,7.5,23.7,1.8,370,517
+2026-09-25,07:30,Breakfast,Yogurt greco naturale,82,g,Alimenti,150,10.5,5,15.7,2.2,475,431
+2026-09-25,07:30,Breakfast,Avena,166,g,Alimenti,150,10.5,5,15.7,1.2,136,542
+2026-09-25,07:30,Breakfast,Banana,69,g,Alimenti,150,10.5,5,15.7,1,59,380
+2026-09-25,13:00,Lunch,Pasta integrale,132,g,Alimenti,169,11.8,5.6,17.7,0.9,288,73
+2026-09-25,13:00,Lunch,Petto di pollo,201,g,Alimenti,169,11.8,5.6,17.7,3.5,390,368
+2026-09-25,13:00,Lunch,Insalata mista,168,g,Alimenti,169,11.8,5.6,17.7,0.6,472,318
+2026-09-25,13:00,Lunch,Olio extravergine,197,g,Alimenti,169,11.8,5.6,17.7,1.4,388,399
+2026-09-25,16:30,Snacks,Mandorle,132,g,Alimenti,102,7.2,3.4,10.7,3.4,487,55
+2026-09-25,16:30,Snacks,Mela,120,g,Alimenti,102,7.2,3.4,10.7,4.9,231,254
+2026-09-25,20:00,Dinner,Salmone al forno,71,g,Alimenti,238,16.7,7.9,25,4.2,113,270
+2026-09-25,20:00,Dinner,Patate,72,g,Alimenti,238,16.7,7.9,25,0.6,251,69
+2026-09-25,20:00,Dinner,Verdure grigliate,93,g,Alimenti,238,16.7,7.9,25,0.9,277,60
+2026-09-26,07:30,Breakfast,Yogurt greco naturale,226,g,Alimenti,187,13.1,6.2,19.6,0.6,19,348
+2026-09-26,07:30,Breakfast,Avena,208,g,Alimenti,187,13.1,6.2,19.6,2.1,365,465
+2026-09-26,07:30,Breakfast,Banana,81,g,Alimenti,187,13.1,6.2,19.6,0.9,61,315
+2026-09-26,13:00,Lunch,Pasta integrale,101,g,Alimenti,210,14.7,7,22.1,3.9,233,427
+2026-09-26,13:00,Lunch,Petto di pollo,73,g,Alimenti,210,14.7,7,22.1,2.8,358,317
+2026-09-26,13:00,Lunch,Insalata mista,91,g,Alimenti,210,14.7,7,22.1,0.8,49,586
+2026-09-26,13:00,Lunch,Olio extravergine,86,g,Alimenti,210,14.7,7,22.1,2.8,440,192
+2026-09-26,16:30,Snacks,Mandorle,116,g,Alimenti,127,8.9,4.2,13.4,5.4,94,257
+2026-09-26,16:30,Snacks,Mela,225,g,Alimenti,127,8.9,4.2,13.4,3.4,165,560
+2026-09-26,20:00,Dinner,Salmone al forno,79,g,Alimenti,297,20.8,9.9,31.2,3.9,205,94
+2026-09-26,20:00,Dinner,Patate,222,g,Alimenti,297,20.8,9.9,31.2,4.1,200,385
+2026-09-26,20:00,Dinner,Verdure grigliate,224,g,Alimenti,297,20.8,9.9,31.2,4.3,403,358
+2026-09-27,07:30,Breakfast,Yogurt greco naturale,98,g,Alimenti,133,9.3,4.4,13.9,3.5,134,452
+2026-09-27,07:30,Breakfast,Avena,119,g,Alimenti,133,9.3,4.4,13.9,5.8,478,246
+2026-09-27,07:30,Breakfast,Banana,218,g,Alimenti,133,9.3,4.4,13.9,4,13,539
+2026-09-27,13:00,Lunch,Pasta integrale,116,g,Alimenti,149,10.5,5,15.7,1.6,65,516
+2026-09-27,13:00,Lunch,Petto di pollo,223,g,Alimenti,149,10.5,5,15.7,2.7,293,90
+2026-09-27,13:00,Lunch,Insalata mista,201,g,Alimenti,149,10.5,5,15.7,5.2,348,522
+2026-09-27,13:00,Lunch,Olio extravergine,87,g,Alimenti,149,10.5,5,15.7,5.5,407,253
+2026-09-27,16:30,Snacks,Mandorle,215,g,Alimenti,91,6.3,3,9.5,3.2,269,436
+2026-09-27,16:30,Snacks,Mela,246,g,Alimenti,91,6.3,3,9.5,2.4,464,525
+2026-09-27,20:00,Dinner,Salmone al forno,215,g,Alimenti,211,14.8,7,22.2,5,177,487
+2026-09-27,20:00,Dinner,Patate,182,g,Alimenti,211,14.8,7,22.2,1.8,278,265
+2026-09-27,20:00,Dinner,Verdure grigliate,172,g,Alimenti,211,14.8,7,22.2,6,363,489
+2026-09-28,07:30,Breakfast,Yogurt greco naturale,69,g,Alimenti,137,9.6,4.6,14.4,1.7,343,139
+2026-09-28,07:30,Breakfast,Avena,152,g,Alimenti,137,9.6,4.6,14.4,6,5,197
+2026-09-28,07:30,Breakfast,Banana,53,g,Alimenti,137,9.6,4.6,14.4,1.1,410,336
+2026-09-28,13:00,Lunch,Pasta integrale,193,g,Alimenti,155,10.8,5.2,16.2,3.7,293,354
+2026-09-28,13:00,Lunch,Petto di pollo,221,g,Alimenti,155,10.8,5.2,16.2,1.9,18,73
+2026-09-28,13:00,Lunch,Insalata mista,158,g,Alimenti,155,10.8,5.2,16.2,3.7,111,465
+2026-09-28,13:00,Lunch,Olio extravergine,62,g,Alimenti,155,10.8,5.2,16.2,0.5,282,547
+2026-09-28,16:30,Snacks,Mandorle,146,g,Alimenti,94,6.6,3.1,9.8,4.3,56,379
+2026-09-28,16:30,Snacks,Mela,207,g,Alimenti,94,6.6,3.1,9.8,1.8,233,381
+2026-09-28,20:00,Dinner,Salmone al forno,70,g,Alimenti,218,15.3,7.3,22.9,3.9,313,534
+2026-09-28,20:00,Dinner,Patate,98,g,Alimenti,218,15.3,7.3,22.9,2.9,168,382
+2026-09-28,20:00,Dinner,Verdure grigliate,189,g,Alimenti,218,15.3,7.3,22.9,4.2,409,386
+2026-09-29,07:30,Breakfast,Yogurt greco naturale,183,g,Alimenti,130,9.1,4.3,13.6,4.2,333,389
+2026-09-29,07:30,Breakfast,Avena,100,g,Alimenti,130,9.1,4.3,13.6,4.7,171,361
+2026-09-29,07:30,Breakfast,Banana,246,g,Alimenti,130,9.1,4.3,13.6,4.1,55,120
+2026-09-29,13:00,Lunch,Pasta integrale,158,g,Alimenti,146,10.2,4.9,15.3,3.2,454,109
+2026-09-29,13:00,Lunch,Petto di pollo,185,g,Alimenti,146,10.2,4.9,15.3,1.5,281,557
+2026-09-29,13:00,Lunch,Insalata mista,233,g,Alimenti,146,10.2,4.9,15.3,2.2,53,347
+2026-09-29,13:00,Lunch,Olio extravergine,180,g,Alimenti,146,10.2,4.9,15.3,2.4,455,549
+2026-09-29,16:30,Snacks,Mandorle,189,g,Alimenti,89,6.2,3,9.3,4,132,432
+2026-09-29,16:30,Snacks,Mela,168,g,Alimenti,89,6.2,3,9.3,1.9,166,227
+2026-09-29,20:00,Dinner,Salmone al forno,168,g,Alimenti,207,14.5,6.9,21.7,2.1,341,589
+2026-09-29,20:00,Dinner,Patate,173,g,Alimenti,207,14.5,6.9,21.7,6,200,593
+2026-09-29,20:00,Dinner,Verdure grigliate,142,g,Alimenti,207,14.5,6.9,21.7,0.8,447,321
+2026-09-30,07:30,Breakfast,Yogurt greco naturale,90,g,Alimenti,142,10,4.7,15,6,116,486
+2026-09-30,07:30,Breakfast,Avena,227,g,Alimenti,142,10,4.7,15,2.3,422,179
+2026-09-30,07:30,Breakfast,Banana,200,g,Alimenti,142,10,4.7,15,4.8,235,472
+2026-09-30,13:00,Lunch,Pasta integrale,87,g,Alimenti,160,11.2,5.3,16.8,1.3,430,383
+2026-09-30,13:00,Lunch,Petto di pollo,214,g,Alimenti,160,11.2,5.3,16.8,0.5,90,421
+2026-09-30,13:00,Lunch,Insalata mista,59,g,Alimenti,160,11.2,5.3,16.8,3,93,443
+2026-09-30,13:00,Lunch,Olio extravergine,74,g,Alimenti,160,11.2,5.3,16.8,1.7,437,398
+2026-09-30,16:30,Snacks,Mandorle,65,g,Alimenti,97,6.8,3.2,10.2,5,59,89
+2026-09-30,16:30,Snacks,Mela,241,g,Alimenti,97,6.8,3.2,10.2,4,412,201
+2026-09-30,20:00,Dinner,Salmone al forno,173,g,Alimenti,227,15.9,7.6,23.8,3.4,220,314
+2026-09-30,20:00,Dinner,Patate,77,g,Alimenti,227,15.9,7.6,23.8,4.2,24,474
+2026-09-30,20:00,Dinner,Verdure grigliate,66,g,Alimenti,227,15.9,7.6,23.8,3.8,421,153
+2026-10-01,07:30,Breakfast,Yogurt greco naturale,117,g,Alimenti,149,10.4,5,15.6,2.6,214,317
+2026-10-01,07:30,Breakfast,Avena,199,g,Alimenti,149,10.4,5,15.6,4.8,429,64
+2026-10-01,07:30,Breakfast,Banana,179,g,Alimenti,149,10.4,5,15.6,4.5,492,307
+2026-10-01,13:00,Lunch,Pasta integrale,160,g,Alimenti,167,11.7,5.6,17.5,3.5,89,304
+2026-10-01,13:00,Lunch,Petto di pollo,160,g,Alimenti,167,11.7,5.6,17.5,2.2,94,321
+2026-10-01,13:00,Lunch,Insalata mista,145,g,Alimenti,167,11.7,5.6,17.5,1.6,18,581
+2026-10-01,13:00,Lunch,Olio extravergine,53,g,Alimenti,167,11.7,5.6,17.5,0.7,387,78
+2026-10-01,16:30,Snacks,Mandorle,240,g,Alimenti,101,7.1,3.4,10.6,6,223,594
+2026-10-01,16:30,Snacks,Mela,194,g,Alimenti,101,7.1,3.4,10.6,1.4,218,438
+2026-10-01,20:00,Dinner,Salmone al forno,238,g,Alimenti,236,16.5,7.9,24.8,5.6,404,585
+2026-10-01,20:00,Dinner,Patate,96,g,Alimenti,236,16.5,7.9,24.8,0.7,352,300
+2026-10-01,20:00,Dinner,Verdure grigliate,65,g,Alimenti,236,16.5,7.9,24.8,2.9,398,303
+2026-10-02,07:30,Breakfast,Yogurt greco naturale,111,g,Alimenti,157,11,5.2,16.4,4.6,191,213
+2026-10-02,07:30,Breakfast,Avena,173,g,Alimenti,157,11,5.2,16.4,4.6,459,540
+2026-10-02,07:30,Breakfast,Banana,123,g,Alimenti,157,11,5.2,16.4,2.6,322,532
+2026-10-02,13:00,Lunch,Pasta integrale,129,g,Alimenti,176,12.3,5.9,18.5,4.6,482,590
+2026-10-02,13:00,Lunch,Petto di pollo,133,g,Alimenti,176,12.3,5.9,18.5,4.2,440,219
+2026-10-02,13:00,Lunch,Insalata mista,169,g,Alimenti,176,12.3,5.9,18.5,5.2,451,251
+2026-10-02,13:00,Lunch,Olio extravergine,184,g,Alimenti,176,12.3,5.9,18.5,4.2,56,131
+2026-10-02,16:30,Snacks,Mandorle,53,g,Alimenti,107,7.5,3.6,11.2,5.6,346,471
+2026-10-02,16:30,Snacks,Mela,80,g,Alimenti,107,7.5,3.6,11.2,3.7,93,127
+2026-10-02,20:00,Dinner,Salmone al forno,212,g,Alimenti,249,17.4,8.3,26.1,3,257,100
+2026-10-02,20:00,Dinner,Patate,73,g,Alimenti,249,17.4,8.3,26.1,3.4,177,589
+2026-10-02,20:00,Dinner,Verdure grigliate,203,g,Alimenti,249,17.4,8.3,26.1,3.3,459,287
+2026-10-03,07:30,Breakfast,Yogurt greco naturale,187,g,Alimenti,191,13.4,6.4,20.1,4.2,413,292
+2026-10-03,07:30,Breakfast,Avena,212,g,Alimenti,191,13.4,6.4,20.1,4,380,342
+2026-10-03,07:30,Breakfast,Banana,231,g,Alimenti,191,13.4,6.4,20.1,5.6,393,289
+2026-10-03,13:00,Lunch,Pasta integrale,109,g,Alimenti,215,15.1,7.2,22.6,5.6,441,323
+2026-10-03,13:00,Lunch,Petto di pollo,185,g,Alimenti,215,15.1,7.2,22.6,1.5,318,271
+2026-10-03,13:00,Lunch,Insalata mista,246,g,Alimenti,215,15.1,7.2,22.6,0.7,328,529
+2026-10-03,13:00,Lunch,Olio extravergine,94,g,Alimenti,215,15.1,7.2,22.6,2.1,333,146
+2026-10-03,16:30,Snacks,Mandorle,69,g,Alimenti,130,9.1,4.3,13.7,2.4,204,57
+2026-10-03,16:30,Snacks,Mela,128,g,Alimenti,130,9.1,4.3,13.7,1.1,424,431
+2026-10-03,20:00,Dinner,Salmone al forno,121,g,Alimenti,304,21.3,10.1,32,3.9,182,416
+2026-10-03,20:00,Dinner,Patate,100,g,Alimenti,304,21.3,10.1,32,5.4,150,318
+2026-10-03,20:00,Dinner,Verdure grigliate,173,g,Alimenti,304,21.3,10.1,32,3.9,122,129
+2026-10-04,07:30,Breakfast,Yogurt greco naturale,80,g,Alimenti,156,11,5.2,16.4,4,33,373
+2026-10-04,07:30,Breakfast,Avena,82,g,Alimenti,156,11,5.2,16.4,4.8,413,175
+2026-10-04,07:30,Breakfast,Banana,244,g,Alimenti,156,11,5.2,16.4,5.2,414,518
+2026-10-04,13:00,Lunch,Pasta integrale,122,g,Alimenti,176,12.3,5.9,18.5,1.5,113,53
+2026-10-04,13:00,Lunch,Petto di pollo,223,g,Alimenti,176,12.3,5.9,18.5,1.1,109,419
+2026-10-04,13:00,Lunch,Insalata mista,85,g,Alimenti,176,12.3,5.9,18.5,4.1,426,578
+2026-10-04,13:00,Lunch,Olio extravergine,241,g,Alimenti,176,12.3,5.9,18.5,3.6,40,158
+2026-10-04,16:30,Snacks,Mandorle,64,g,Alimenti,107,7.5,3.6,11.2,5,7,158
+2026-10-04,16:30,Snacks,Mela,215,g,Alimenti,107,7.5,3.6,11.2,3.5,39,154
+2026-10-04,20:00,Dinner,Salmone al forno,144,g,Alimenti,249,17.4,8.3,26.1,2.5,108,60
+2026-10-04,20:00,Dinner,Patate,123,g,Alimenti,249,17.4,8.3,26.1,2.7,369,568
+2026-10-04,20:00,Dinner,Verdure grigliate,207,g,Alimenti,249,17.4,8.3,26.1,2.7,420,552
+2026-10-05,07:30,Breakfast,Yogurt greco naturale,116,g,Alimenti,146,10.3,4.9,15.4,2.1,229,153
+2026-10-05,07:30,Breakfast,Avena,226,g,Alimenti,146,10.3,4.9,15.4,1.7,287,257
+2026-10-05,07:30,Breakfast,Banana,216,g,Alimenti,146,10.3,4.9,15.4,2.3,336,406
+2026-10-05,13:00,Lunch,Pasta integrale,188,g,Alimenti,165,11.5,5.5,17.3,5.6,61,250
+2026-10-05,13:00,Lunch,Petto di pollo,171,g,Alimenti,165,11.5,5.5,17.3,3.1,107,411
+2026-10-05,13:00,Lunch,Insalata mista,189,g,Alimenti,165,11.5,5.5,17.3,2.3,124,389
+2026-10-05,13:00,Lunch,Olio extravergine,99,g,Alimenti,165,11.5,5.5,17.3,3.7,109,303
+2026-10-05,16:30,Snacks,Mandorle,73,g,Alimenti,100,7,3.3,10.5,1.9,499,514
+2026-10-05,16:30,Snacks,Mela,100,g,Alimenti,100,7,3.3,10.5,6,394,51
+2026-10-05,20:00,Dinner,Salmone al forno,223,g,Alimenti,233,16.3,7.8,24.5,2.6,343,93
+2026-10-05,20:00,Dinner,Patate,143,g,Alimenti,233,16.3,7.8,24.5,2.5,493,231
+2026-10-05,20:00,Dinner,Verdure grigliate,223,g,Alimenti,233,16.3,7.8,24.5,3.1,258,500
+2026-10-06,07:30,Breakfast,Yogurt greco naturale,151,g,Alimenti,128,9,4.3,13.5,5.5,481,470
+2026-10-06,07:30,Breakfast,Avena,78,g,Alimenti,128,9,4.3,13.5,0.9,19,560
+2026-10-06,07:30,Breakfast,Banana,217,g,Alimenti,128,9,4.3,13.5,2.2,496,404
+2026-10-06,13:00,Lunch,Pasta integrale,238,g,Alimenti,144,10.1,4.8,15.2,4.9,260,507
+2026-10-06,13:00,Lunch,Petto di pollo,202,g,Alimenti,144,10.1,4.8,15.2,4.1,130,85
+2026-10-06,13:00,Lunch,Insalata mista,110,g,Alimenti,144,10.1,4.8,15.2,0.8,229,247
+2026-10-06,13:00,Lunch,Olio extravergine,59,g,Alimenti,144,10.1,4.8,15.2,5.8,256,417
+2026-10-06,16:30,Snacks,Mandorle,148,g,Alimenti,88,6.1,2.9,9.2,1,423,418
+2026-10-06,16:30,Snacks,Mela,103,g,Alimenti,88,6.1,2.9,9.2,2.3,157,207
+2026-10-06,20:00,Dinner,Salmone al forno,192,g,Alimenti,204,14.3,6.8,21.4,0.8,330,463
+2026-10-06,20:00,Dinner,Patate,180,g,Alimenti,204,14.3,6.8,21.4,3.4,84,370
+2026-10-06,20:00,Dinner,Verdure grigliate,226,g,Alimenti,204,14.3,6.8,21.4,5.3,351,545
+2026-10-07,07:30,Breakfast,Yogurt greco naturale,65,g,Alimenti,136,9.5,4.5,14.2,2.5,24,483
+2026-10-07,07:30,Breakfast,Avena,235,g,Alimenti,136,9.5,4.5,14.2,1.9,264,456
+2026-10-07,07:30,Breakfast,Banana,63,g,Alimenti,136,9.5,4.5,14.2,2.9,408,586
+2026-10-07,13:00,Lunch,Pasta integrale,56,g,Alimenti,153,10.7,5.1,16,1.8,144,259
+2026-10-07,13:00,Lunch,Petto di pollo,61,g,Alimenti,153,10.7,5.1,16,3.4,371,506
+2026-10-07,13:00,Lunch,Insalata mista,171,g,Alimenti,153,10.7,5.1,16,4.3,61,474
+2026-10-07,13:00,Lunch,Olio extravergine,54,g,Alimenti,153,10.7,5.1,16,4.6,145,531
+2026-10-07,16:30,Snacks,Mandorle,87,g,Alimenti,92,6.5,3.1,9.7,3.2,306,185
+2026-10-07,16:30,Snacks,Mela,212,g,Alimenti,92,6.5,3.1,9.7,4.5,326,295
+2026-10-07,20:00,Dinner,Salmone al forno,181,g,Alimenti,216,15.1,7.2,22.7,3.5,62,65
+2026-10-07,20:00,Dinner,Patate,241,g,Alimenti,216,15.1,7.2,22.7,3.2,199,103
+2026-10-07,20:00,Dinner,Verdure grigliate,153,g,Alimenti,216,15.1,7.2,22.7,3.4,33,175
+2026-10-08,07:30,Breakfast,Yogurt greco naturale,207,g,Alimenti,154,10.8,5.1,16.2,2.8,356,587
+2026-10-08,07:30,Breakfast,Avena,205,g,Alimenti,154,10.8,5.1,16.2,3.2,473,237
+2026-10-08,07:30,Breakfast,Banana,136,g,Alimenti,154,10.8,5.1,16.2,3.2,444,374
+2026-10-08,13:00,Lunch,Pasta integrale,168,g,Alimenti,173,12.1,5.8,18.2,3.1,74,475
+2026-10-08,13:00,Lunch,Petto di pollo,118,g,Alimenti,173,12.1,5.8,18.2,2.4,9,592
+2026-10-08,13:00,Lunch,Insalata mista,101,g,Alimenti,173,12.1,5.8,18.2,1.3,271,584
+2026-10-08,13:00,Lunch,Olio extravergine,89,g,Alimenti,173,12.1,5.8,18.2,4.7,444,174
+2026-10-08,16:30,Snacks,Mandorle,72,g,Alimenti,105,7.4,3.5,11,0.8,477,107
+2026-10-08,16:30,Snacks,Mela,96,g,Alimenti,105,7.4,3.5,11,5.7,316,410
+2026-10-08,20:00,Dinner,Salmone al forno,228,g,Alimenti,245,17.2,8.2,25.7,5.3,25,152
+2026-10-08,20:00,Dinner,Patate,199,g,Alimenti,245,17.2,8.2,25.7,5.3,421,240
+2026-10-08,20:00,Dinner,Verdure grigliate,215,g,Alimenti,245,17.2,8.2,25.7,4.5,64,556
+2026-10-09,07:30,Breakfast,Yogurt greco naturale,55,g,Alimenti,155,10.8,5.2,16.2,2.1,468,566
+2026-10-09,07:30,Breakfast,Avena,66,g,Alimenti,155,10.8,5.2,16.2,0.7,278,162
+2026-10-09,07:30,Breakfast,Banana,184,g,Alimenti,155,10.8,5.2,16.2,4.3,84,428
+2026-10-09,13:00,Lunch,Pasta integrale,184,g,Alimenti,174,12.2,5.8,18.3,2.3,447,492
+2026-10-09,13:00,Lunch,Petto di pollo,129,g,Alimenti,174,12.2,5.8,18.3,1.2,360,406
+2026-10-09,13:00,Lunch,Insalata mista,189,g,Alimenti,174,12.2,5.8,18.3,1.1,450,540
+2026-10-09,13:00,Lunch,Olio extravergine,167,g,Alimenti,174,12.2,5.8,18.3,1,206,259
+2026-10-09,16:30,Snacks,Mandorle,104,g,Alimenti,105,7.4,3.5,11.1,0.8,498,158
+2026-10-09,16:30,Snacks,Mela,138,g,Alimenti,105,7.4,3.5,11.1,1.7,357,123
+2026-10-09,20:00,Dinner,Salmone al forno,69,g,Alimenti,246,17.2,8.2,25.8,3.7,345,121
+2026-10-09,20:00,Dinner,Patate,90,g,Alimenti,246,17.2,8.2,25.8,0.7,333,94
+2026-10-09,20:00,Dinner,Verdure grigliate,186,g,Alimenti,246,17.2,8.2,25.8,3.7,316,111
+2026-10-10,07:30,Breakfast,Yogurt greco naturale,215,g,Alimenti,210,14.7,7,22,5,274,333
+2026-10-10,07:30,Breakfast,Avena,145,g,Alimenti,210,14.7,7,22,4,438,432
+2026-10-10,07:30,Breakfast,Banana,99,g,Alimenti,210,14.7,7,22,3.2,134,549
+2026-10-10,13:00,Lunch,Pasta integrale,146,g,Alimenti,236,16.5,7.9,24.7,5.7,251,261
+2026-10-10,13:00,Lunch,Petto di pollo,64,g,Alimenti,236,16.5,7.9,24.7,2.6,117,195
+2026-10-10,13:00,Lunch,Insalata mista,199,g,Alimenti,236,16.5,7.9,24.7,4.7,221,579
+2026-10-10,13:00,Lunch,Olio extravergine,132,g,Alimenti,236,16.5,7.9,24.7,3.4,388,154
+2026-10-10,16:30,Snacks,Mandorle,136,g,Alimenti,143,10,4.8,15,4.2,333,452
+2026-10-10,16:30,Snacks,Mela,242,g,Alimenti,143,10,4.8,15,5.9,340,575
+2026-10-10,20:00,Dinner,Salmone al forno,79,g,Alimenti,333,23.3,11.1,35,3,269,423
+2026-10-10,20:00,Dinner,Patate,108,g,Alimenti,333,23.3,11.1,35,2.2,377,555
+2026-10-10,20:00,Dinner,Verdure grigliate,53,g,Alimenti,333,23.3,11.1,35,5.6,314,587
+2026-10-11,07:30,Breakfast,Yogurt greco naturale,125,g,Alimenti,155,10.9,5.2,16.3,1.6,313,355
+2026-10-11,07:30,Breakfast,Avena,178,g,Alimenti,155,10.9,5.2,16.3,0.9,227,63
+2026-10-11,07:30,Breakfast,Banana,219,g,Alimenti,155,10.9,5.2,16.3,4.5,465,172
+2026-10-11,13:00,Lunch,Pasta integrale,101,g,Alimenti,174,12.2,5.8,18.3,4.7,335,496
+2026-10-11,13:00,Lunch,Petto di pollo,69,g,Alimenti,174,12.2,5.8,18.3,5.7,391,293
+2026-10-11,13:00,Lunch,Insalata mista,128,g,Alimenti,174,12.2,5.8,18.3,5.4,241,95
+2026-10-11,13:00,Lunch,Olio extravergine,67,g,Alimenti,174,12.2,5.8,18.3,3.3,292,364
+2026-10-11,16:30,Snacks,Mandorle,227,g,Alimenti,106,7.4,3.5,11.1,2.7,234,206
+2026-10-11,16:30,Snacks,Mela,244,g,Alimenti,106,7.4,3.5,11.1,2,66,267
+2026-10-11,20:00,Dinner,Salmone al forno,148,g,Alimenti,247,17.3,8.2,25.9,1.2,184,592
+2026-10-11,20:00,Dinner,Patate,175,g,Alimenti,247,17.3,8.2,25.9,5.8,106,339
+2026-10-11,20:00,Dinner,Verdure grigliate,120,g,Alimenti,247,17.3,8.2,25.9,5,303,414
+2026-10-12,07:30,Breakfast,Yogurt greco naturale,189,g,Alimenti,136,9.6,4.5,14.3,2.6,268,282
+2026-10-12,07:30,Breakfast,Avena,90,g,Alimenti,136,9.6,4.5,14.3,5.4,6,413
+2026-10-12,07:30,Breakfast,Banana,151,g,Alimenti,136,9.6,4.5,14.3,3.8,56,516
+2026-10-12,13:00,Lunch,Pasta integrale,144,g,Alimenti,154,10.7,5.1,16.1,3.7,412,219
+2026-10-12,13:00,Lunch,Petto di pollo,247,g,Alimenti,154,10.7,5.1,16.1,5.1,269,239
+2026-10-12,13:00,Lunch,Insalata mista,197,g,Alimenti,154,10.7,5.1,16.1,5.2,375,394
+2026-10-12,13:00,Lunch,Olio extravergine,170,g,Alimenti,154,10.7,5.1,16.1,5.4,142,553
+2026-10-12,16:30,Snacks,Mandorle,117,g,Alimenti,93,6.5,3.1,9.8,1.4,131,463
+2026-10-12,16:30,Snacks,Mela,107,g,Alimenti,93,6.5,3.1,9.8,5.7,160,302
+2026-10-12,20:00,Dinner,Salmone al forno,227,g,Alimenti,217,15.2,7.2,22.8,3.7,335,271
+2026-10-12,20:00,Dinner,Patate,102,g,Alimenti,217,15.2,7.2,22.8,2.4,421,292
+2026-10-12,20:00,Dinner,Verdure grigliate,141,g,Alimenti,217,15.2,7.2,22.8,1.4,218,309
+2026-10-13,07:30,Breakfast,Yogurt greco naturale,141,g,Alimenti,137,9.6,4.6,14.4,1.7,207,348
+2026-10-13,07:30,Breakfast,Avena,192,g,Alimenti,137,9.6,4.6,14.4,3.8,360,579
+2026-10-13,07:30,Breakfast,Banana,149,g,Alimenti,137,9.6,4.6,14.4,4.8,121,292
+2026-10-13,13:00,Lunch,Pasta integrale,163,g,Alimenti,154,10.8,5.1,16.2,1,176,454
+2026-10-13,13:00,Lunch,Petto di pollo,218,g,Alimenti,154,10.8,5.1,16.2,3,313,364
+2026-10-13,13:00,Lunch,Insalata mista,162,g,Alimenti,154,10.8,5.1,16.2,5.7,231,536
+2026-10-13,13:00,Lunch,Olio extravergine,113,g,Alimenti,154,10.8,5.1,16.2,1.3,468,272
+2026-10-13,16:30,Snacks,Mandorle,230,g,Alimenti,93,6.5,3.1,9.8,3.9,103,599
+2026-10-13,16:30,Snacks,Mela,172,g,Alimenti,93,6.5,3.1,9.8,2.8,173,54
+2026-10-13,20:00,Dinner,Salmone al forno,107,g,Alimenti,218,15.3,7.3,22.9,2.7,234,355
+2026-10-13,20:00,Dinner,Patate,129,g,Alimenti,218,15.3,7.3,22.9,0.9,244,79
+2026-10-13,20:00,Dinner,Verdure grigliate,228,g,Alimenti,218,15.3,7.3,22.9,0.7,148,486
+2026-10-14,07:30,Breakfast,Yogurt greco naturale,134,g,Alimenti,147,10.3,4.9,15.5,1.1,46,369
+2026-10-14,07:30,Breakfast,Avena,166,g,Alimenti,147,10.3,4.9,15.5,1.9,376,350
+2026-10-14,07:30,Breakfast,Banana,242,g,Alimenti,147,10.3,4.9,15.5,0.9,309,377
+2026-10-14,13:00,Lunch,Pasta integrale,69,g,Alimenti,166,11.6,5.5,17.4,1.9,481,328
+2026-10-14,13:00,Lunch,Petto di pollo,206,g,Alimenti,166,11.6,5.5,17.4,2.4,301,86
+2026-10-14,13:00,Lunch,Insalata mista,83,g,Alimenti,166,11.6,5.5,17.4,5.2,369,292
+2026-10-14,13:00,Lunch,Olio extravergine,223,g,Alimenti,166,11.6,5.5,17.4,5.3,74,122
+2026-10-14,16:30,Snacks,Mandorle,232,g,Alimenti,101,7,3.4,10.6,0.9,289,136
+2026-10-14,16:30,Snacks,Mela,107,g,Alimenti,101,7,3.4,10.6,5.7,343,417
+2026-10-14,20:00,Dinner,Salmone al forno,109,g,Alimenti,235,16.4,7.8,24.6,5.9,457,505
+2026-10-14,20:00,Dinner,Patate,156,g,Alimenti,235,16.4,7.8,24.6,2.9,246,463
+2026-10-14,20:00,Dinner,Verdure grigliate,114,g,Alimenti,235,16.4,7.8,24.6,2.1,258,462
+2026-10-15,07:30,Breakfast,Yogurt greco naturale,147,g,Alimenti,135,9.5,4.5,14.2,3.4,356,489
+2026-10-15,07:30,Breakfast,Avena,91,g,Alimenti,135,9.5,4.5,14.2,4.7,149,355
+2026-10-15,07:30,Breakfast,Banana,55,g,Alimenti,135,9.5,4.5,14.2,5.3,301,74
+2026-10-15,13:00,Lunch,Pasta integrale,215,g,Alimenti,152,10.7,5.1,16,2.4,58,460
+2026-10-15,13:00,Lunch,Petto di pollo,73,g,Alimenti,152,10.7,5.1,16,4.4,263,74
+2026-10-15,13:00,Lunch,Insalata mista,206,g,Alimenti,152,10.7,5.1,16,0.5,237,517
+2026-10-15,13:00,Lunch,Olio extravergine,164,g,Alimenti,152,10.7,5.1,16,0.7,131,546
+2026-10-15,16:30,Snacks,Mandorle,95,g,Alimenti,92,6.5,3.1,9.7,1.7,106,442
+2026-10-15,16:30,Snacks,Mela,225,g,Alimenti,92,6.5,3.1,9.7,5.7,261,342
+2026-10-15,20:00,Dinner,Salmone al forno,197,g,Alimenti,215,15.1,7.2,22.6,5.7,102,116
+2026-10-15,20:00,Dinner,Patate,172,g,Alimenti,215,15.1,7.2,22.6,5.5,306,234
+2026-10-15,20:00,Dinner,Verdure grigliate,108,g,Alimenti,215,15.1,7.2,22.6,1.7,414,93
+2026-10-16,07:30,Breakfast,Yogurt greco naturale,215,g,Alimenti,132,9.3,4.4,13.9,2.9,150,105
+2026-10-16,07:30,Breakfast,Avena,154,g,Alimenti,132,9.3,4.4,13.9,2.3,397,162
+2026-10-16,07:30,Breakfast,Banana,184,g,Alimenti,132,9.3,4.4,13.9,3.3,72,466
+2026-10-16,13:00,Lunch,Pasta integrale,107,g,Alimenti,149,10.4,5,15.6,1.1,397,511
+2026-10-16,13:00,Lunch,Petto di pollo,185,g,Alimenti,149,10.4,5,15.6,2.3,484,284
+2026-10-16,13:00,Lunch,Insalata mista,66,g,Alimenti,149,10.4,5,15.6,1.3,325,329
+2026-10-16,13:00,Lunch,Olio extravergine,238,g,Alimenti,149,10.4,5,15.6,0.5,90,88
+2026-10-16,16:30,Snacks,Mandorle,156,g,Alimenti,90,6.3,3,9.5,2.5,154,466
+2026-10-16,16:30,Snacks,Mela,248,g,Alimenti,90,6.3,3,9.5,1.8,367,462
+2026-10-16,20:00,Dinner,Salmone al forno,173,g,Alimenti,210,14.7,7,22.1,5.4,383,300
+2026-10-16,20:00,Dinner,Patate,101,g,Alimenti,210,14.7,7,22.1,4.9,475,221
+2026-10-16,20:00,Dinner,Verdure grigliate,120,g,Alimenti,210,14.7,7,22.1,3.7,92,371
+2026-10-17,07:30,Breakfast,Yogurt greco naturale,204,g,Alimenti,187,13.1,6.2,19.7,5.9,42,287
+2026-10-17,07:30,Breakfast,Avena,109,g,Alimenti,187,13.1,6.2,19.7,4.6,97,266
+2026-10-17,07:30,Breakfast,Banana,114,g,Alimenti,187,13.1,6.2,19.7,0.7,331,271
+2026-10-17,13:00,Lunch,Pasta integrale,205,g,Alimenti,211,14.7,7,22.1,0.9,463,55
+2026-10-17,13:00,Lunch,Petto di pollo,143,g,Alimenti,211,14.7,7,22.1,4.6,70,332
+2026-10-17,13:00,Lunch,Insalata mista,245,g,Alimenti,211,14.7,7,22.1,2.4,155,457
+2026-10-17,13:00,Lunch,Olio extravergine,74,g,Alimenti,211,14.7,7,22.1,5.2,455,504
+2026-10-17,16:30,Snacks,Mandorle,131,g,Alimenti,128,8.9,4.3,13.4,0.9,239,552
+2026-10-17,16:30,Snacks,Mela,54,g,Alimenti,128,8.9,4.3,13.4,4.7,429,323
+2026-10-17,20:00,Dinner,Salmone al forno,178,g,Alimenti,298,20.8,9.9,31.3,3.3,338,309
+2026-10-17,20:00,Dinner,Patate,165,g,Alimenti,298,20.8,9.9,31.3,5,411,365
+2026-10-17,20:00,Dinner,Verdure grigliate,206,g,Alimenti,298,20.8,9.9,31.3,3.8,353,95
+2026-10-18,07:30,Breakfast,Yogurt greco naturale,91,g,Alimenti,149,10.5,5,15.7,1.3,291,357
+2026-10-18,07:30,Breakfast,Avena,215,g,Alimenti,149,10.5,5,15.7,4.8,53,405
+2026-10-18,07:30,Breakfast,Banana,159,g,Alimenti,149,10.5,5,15.7,4,487,443
+2026-10-18,13:00,Lunch,Pasta integrale,184,g,Alimenti,168,11.8,5.6,17.7,3.4,39,508
+2026-10-18,13:00,Lunch,Petto di pollo,94,g,Alimenti,168,11.8,5.6,17.7,5.1,128,388
+2026-10-18,13:00,Lunch,Insalata mista,218,g,Alimenti,168,11.8,5.6,17.7,5.3,78,231
+2026-10-18,13:00,Lunch,Olio extravergine,232,g,Alimenti,168,11.8,5.6,17.7,4.3,217,209
+2026-10-18,16:30,Snacks,Mandorle,82,g,Alimenti,102,7.1,3.4,10.7,3.6,191,568
+2026-10-18,16:30,Snacks,Mela,228,g,Alimenti,102,7.1,3.4,10.7,4.7,227,210
+2026-10-18,20:00,Dinner,Salmone al forno,228,g,Alimenti,238,16.6,7.9,25,1.8,216,199
+2026-10-18,20:00,Dinner,Patate,99,g,Alimenti,238,16.6,7.9,25,1.1,65,242
+2026-10-18,20:00,Dinner,Verdure grigliate,54,g,Alimenti,238,16.6,7.9,25,1.7,448,401
+2026-10-19,07:30,Breakfast,Yogurt greco naturale,117,g,Alimenti,153,10.7,5.1,16.1,1.2,279,542
+2026-10-19,07:30,Breakfast,Avena,245,g,Alimenti,153,10.7,5.1,16.1,1.2,100,418
+2026-10-19,07:30,Breakfast,Banana,92,g,Alimenti,153,10.7,5.1,16.1,5.8,215,392
+2026-10-19,13:00,Lunch,Pasta integrale,67,g,Alimenti,172,12.1,5.7,18.1,0.8,126,163
+2026-10-19,13:00,Lunch,Petto di pollo,170,g,Alimenti,172,12.1,5.7,18.1,4.5,345,556
+2026-10-19,13:00,Lunch,Insalata mista,99,g,Alimenti,172,12.1,5.7,18.1,5.1,165,439
+2026-10-19,13:00,Lunch,Olio extravergine,131,g,Alimenti,172,12.1,5.7,18.1,2.1,409,578
+2026-10-19,16:30,Snacks,Mandorle,159,g,Alimenti,104,7.3,3.5,11,3.7,192,300
+2026-10-19,16:30,Snacks,Mela,205,g,Alimenti,104,7.3,3.5,11,5.8,428,529
+2026-10-19,20:00,Dinner,Salmone al forno,54,g,Alimenti,244,17,8.1,25.6,5.5,46,489
+2026-10-19,20:00,Dinner,Patate,144,g,Alimenti,244,17,8.1,25.6,5.2,293,75
+2026-10-19,20:00,Dinner,Verdure grigliate,98,g,Alimenti,244,17,8.1,25.6,4.6,462,380
+2026-10-20,07:30,Breakfast,Yogurt greco naturale,202,g,Alimenti,144,10.1,4.8,15.1,1.9,342,503
+2026-10-20,07:30,Breakfast,Avena,75,g,Alimenti,144,10.1,4.8,15.1,3.5,351,193
+2026-10-20,07:30,Breakfast,Banana,134,g,Alimenti,144,10.1,4.8,15.1,4.8,284,458
+2026-10-20,13:00,Lunch,Pasta integrale,217,g,Alimenti,162,11.3,5.4,17,5,484,319
+2026-10-20,13:00,Lunch,Petto di pollo,123,g,Alimenti,162,11.3,5.4,17,2.4,363,183
+2026-10-20,13:00,Lunch,Insalata mista,228,g,Alimenti,162,11.3,5.4,17,4.3,25,452
+2026-10-20,13:00,Lunch,Olio extravergine,83,g,Alimenti,162,11.3,5.4,17,3.1,480,105
+2026-10-20,16:30,Snacks,Mandorle,205,g,Alimenti,98,6.9,3.3,10.3,3.5,496,51
+2026-10-20,16:30,Snacks,Mela,209,g,Alimenti,98,6.9,3.3,10.3,5.7,206,545
+2026-10-20,20:00,Dinner,Salmone al forno,98,g,Alimenti,229,16,7.6,24.1,1,356,528
+2026-10-20,20:00,Dinner,Patate,214,g,Alimenti,229,16,7.6,24.1,4.3,157,343
+2026-10-20,20:00,Dinner,Verdure grigliate,75,g,Alimenti,229,16,7.6,24.1,1.4,177,521
+2026-10-21,07:30,Breakfast,Yogurt greco naturale,172,g,Alimenti,132,9.3,4.4,13.9,3.1,385,338
+2026-10-21,07:30,Breakfast,Avena,196,g,Alimenti,132,9.3,4.4,13.9,5.6,199,57
+2026-10-21,07:30,Breakfast,Banana,139,g,Alimenti,132,9.3,4.4,13.9,4.4,201,357
+2026-10-21,13:00,Lunch,Pasta integrale,182,g,Alimenti,149,10.4,5,15.6,3.2,69,279
+2026-10-21,13:00,Lunch,Petto di pollo,169,g,Alimenti,149,10.4,5,15.6,4.4,286,64
+2026-10-21,13:00,Lunch,Insalata mista,154,g,Alimenti,149,10.4,5,15.6,5,332,75
+2026-10-21,13:00,Lunch,Olio extravergine,177,g,Alimenti,149,10.4,5,15.6,5.5,329,366
+2026-10-21,16:30,Snacks,Mandorle,130,g,Alimenti,90,6.3,3,9.5,1.5,367,528
+2026-10-21,16:30,Snacks,Mela,228,g,Alimenti,90,6.3,3,9.5,4.9,262,148
+2026-10-21,20:00,Dinner,Salmone al forno,85,g,Alimenti,210,14.7,7,22.1,1.1,217,323
+2026-10-21,20:00,Dinner,Patate,104,g,Alimenti,210,14.7,7,22.1,0.9,475,123
+2026-10-21,20:00,Dinner,Verdure grigliate,247,g,Alimenti,210,14.7,7,22.1,0.9,6,445
+2026-10-22,07:30,Breakfast,Yogurt greco naturale,140,g,Alimenti,142,9.9,4.7,14.9,5.5,135,464
+2026-10-22,07:30,Breakfast,Avena,91,g,Alimenti,142,9.9,4.7,14.9,5,356,416
+2026-10-22,07:30,Breakfast,Banana,219,g,Alimenti,142,9.9,4.7,14.9,4.2,92,282
+2026-10-22,13:00,Lunch,Pasta integrale,132,g,Alimenti,159,11.2,5.3,16.7,4.6,46,419
+2026-10-22,13:00,Lunch,Petto di pollo,193,g,Alimenti,159,11.2,5.3,16.7,0.8,370,443
+2026-10-22,13:00,Lunch,Insalata mista,56,g,Alimenti,159,11.2,5.3,16.7,2.7,349,555
+2026-10-22,13:00,Lunch,Olio extravergine,223,g,Alimenti,159,11.2,5.3,16.7,2.9,83,337
+2026-10-22,16:30,Snacks,Mandorle,190,g,Alimenti,97,6.8,3.2,10.1,0.6,357,202
+2026-10-22,16:30,Snacks,Mela,157,g,Alimenti,97,6.8,3.2,10.1,2.1,63,270
+2026-10-22,20:00,Dinner,Salmone al forno,183,g,Alimenti,225,15.8,7.5,23.7,3.5,286,369
+2026-10-22,20:00,Dinner,Patate,146,g,Alimenti,225,15.8,7.5,23.7,3.2,483,232
+2026-10-22,20:00,Dinner,Verdure grigliate,167,g,Alimenti,225,15.8,7.5,23.7,5.4,395,345
+2026-10-23,07:30,Breakfast,Yogurt greco naturale,177,g,Alimenti,156,10.9,5.2,16.4,3.9,370,246
+2026-10-23,07:30,Breakfast,Avena,74,g,Alimenti,156,10.9,5.2,16.4,1.5,60,592
+2026-10-23,07:30,Breakfast,Banana,123,g,Alimenti,156,10.9,5.2,16.4,5,322,334
+2026-10-23,13:00,Lunch,Pasta integrale,97,g,Alimenti,175,12.3,5.8,18.4,4.1,65,442
+2026-10-23,13:00,Lunch,Petto di pollo,68,g,Alimenti,175,12.3,5.8,18.4,3.8,335,73
+2026-10-23,13:00,Lunch,Insalata mista,173,g,Alimenti,175,12.3,5.8,18.4,0.6,228,300
+2026-10-23,13:00,Lunch,Olio extravergine,128,g,Alimenti,175,12.3,5.8,18.4,2.3,122,501
+2026-10-23,16:30,Snacks,Mandorle,226,g,Alimenti,106,7.4,3.5,11.2,5.8,203,435
+2026-10-23,16:30,Snacks,Mela,78,g,Alimenti,106,7.4,3.5,11.2,3.8,500,79
+2026-10-23,20:00,Dinner,Salmone al forno,168,g,Alimenti,248,17.4,8.3,26,2.4,181,332
+2026-10-23,20:00,Dinner,Patate,66,g,Alimenti,248,17.4,8.3,26,5.1,160,307
+2026-10-23,20:00,Dinner,Verdure grigliate,216,g,Alimenti,248,17.4,8.3,26,2,319,328
+2026-10-24,07:30,Breakfast,Yogurt greco naturale,158,g,Alimenti,188,13.1,6.3,19.7,5.6,36,576
+2026-10-24,07:30,Breakfast,Avena,181,g,Alimenti,188,13.1,6.3,19.7,3.9,19,137
+2026-10-24,07:30,Breakfast,Banana,198,g,Alimenti,188,13.1,6.3,19.7,4.8,303,340
+2026-10-24,13:00,Lunch,Pasta integrale,57,g,Alimenti,211,14.8,7,22.2,2.6,121,61
+2026-10-24,13:00,Lunch,Petto di pollo,225,g,Alimenti,211,14.8,7,22.2,5.2,119,120
+2026-10-24,13:00,Lunch,Insalata mista,80,g,Alimenti,211,14.8,7,22.2,3,397,111
+2026-10-24,13:00,Lunch,Olio extravergine,147,g,Alimenti,211,14.8,7,22.2,5.7,37,249
+2026-10-24,16:30,Snacks,Mandorle,181,g,Alimenti,128,9,4.3,13.4,2.4,240,321
+2026-10-24,16:30,Snacks,Mela,70,g,Alimenti,128,9,4.3,13.4,2.3,78,422
+2026-10-24,20:00,Dinner,Salmone al forno,115,g,Alimenti,299,20.9,10,31.4,4.5,238,371
+2026-10-24,20:00,Dinner,Patate,184,g,Alimenti,299,20.9,10,31.4,1.5,464,363
+2026-10-24,20:00,Dinner,Verdure grigliate,106,g,Alimenti,299,20.9,10,31.4,3.9,444,280
+2026-10-25,07:30,Breakfast,Yogurt greco naturale,231,g,Alimenti,132,9.3,4.4,13.9,1.1,264,386
+2026-10-25,07:30,Breakfast,Avena,64,g,Alimenti,132,9.3,4.4,13.9,5.5,300,504
+2026-10-25,07:30,Breakfast,Banana,206,g,Alimenti,132,9.3,4.4,13.9,3.9,255,393
+2026-10-25,13:00,Lunch,Pasta integrale,107,g,Alimenti,149,10.4,5,15.6,5.6,362,203
+2026-10-25,13:00,Lunch,Petto di pollo,159,g,Alimenti,149,10.4,5,15.6,1.9,161,413
+2026-10-25,13:00,Lunch,Insalata mista,178,g,Alimenti,149,10.4,5,15.6,4.4,63,421
+2026-10-25,13:00,Lunch,Olio extravergine,149,g,Alimenti,149,10.4,5,15.6,1,39,334
+2026-10-25,16:30,Snacks,Mandorle,122,g,Alimenti,90,6.3,3,9.5,0.6,97,376
+2026-10-25,16:30,Snacks,Mela,200,g,Alimenti,90,6.3,3,9.5,2,342,191
+2026-10-25,20:00,Dinner,Salmone al forno,149,g,Alimenti,211,14.7,7,22.1,3.9,236,137
+2026-10-25,20:00,Dinner,Patate,196,g,Alimenti,211,14.7,7,22.1,4.5,416,404
+2026-10-25,20:00,Dinner,Verdure grigliate,155,g,Alimenti,211,14.7,7,22.1,1.9,428,487
+2026-10-26,07:30,Breakfast,Yogurt greco naturale,246,g,Alimenti,152,10.6,5.1,15.9,2.2,12,574
+2026-10-26,07:30,Breakfast,Avena,177,g,Alimenti,152,10.6,5.1,15.9,0.5,50,152
+2026-10-26,07:30,Breakfast,Banana,55,g,Alimenti,152,10.6,5.1,15.9,1.4,498,518
+2026-10-26,13:00,Lunch,Pasta integrale,223,g,Alimenti,171,11.9,5.7,17.9,4,326,263
+2026-10-26,13:00,Lunch,Petto di pollo,72,g,Alimenti,171,11.9,5.7,17.9,5.9,137,278
+2026-10-26,13:00,Lunch,Insalata mista,189,g,Alimenti,171,11.9,5.7,17.9,1.3,363,85
+2026-10-26,13:00,Lunch,Olio extravergine,107,g,Alimenti,171,11.9,5.7,17.9,5.4,478,579
+2026-10-26,16:30,Snacks,Mandorle,112,g,Alimenti,103,7.2,3.4,10.9,3.2,426,287
+2026-10-26,16:30,Snacks,Mela,146,g,Alimenti,103,7.2,3.4,10.9,4.6,290,458
+2026-10-26,20:00,Dinner,Salmone al forno,248,g,Alimenti,241,16.9,8,25.3,2.4,469,144
+2026-10-26,20:00,Dinner,Patate,220,g,Alimenti,241,16.9,8,25.3,2.5,26,485
+2026-10-26,20:00,Dinner,Verdure grigliate,168,g,Alimenti,241,16.9,8,25.3,2.8,479,320
+2026-10-27,07:30,Breakfast,Yogurt greco naturale,87,g,Alimenti,157,11,5.2,16.5,3.4,35,362
+2026-10-27,07:30,Breakfast,Avena,121,g,Alimenti,157,11,5.2,16.5,1.2,355,56
+2026-10-27,07:30,Breakfast,Banana,200,g,Alimenti,157,11,5.2,16.5,4.3,100,251
+2026-10-27,13:00,Lunch,Pasta integrale,117,g,Alimenti,177,12.4,5.9,18.6,2.8,294,406
+2026-10-27,13:00,Lunch,Petto di pollo,53,g,Alimenti,177,12.4,5.9,18.6,2.7,498,409
+2026-10-27,13:00,Lunch,Insalata mista,217,g,Alimenti,177,12.4,5.9,18.6,1.6,280,526
+2026-10-27,13:00,Lunch,Olio extravergine,116,g,Alimenti,177,12.4,5.9,18.6,0.8,346,116
+2026-10-27,16:30,Snacks,Mandorle,99,g,Alimenti,107,7.5,3.6,11.3,2.3,111,390
+2026-10-27,16:30,Snacks,Mela,82,g,Alimenti,107,7.5,3.6,11.3,3.5,381,422
+2026-10-27,20:00,Dinner,Salmone al forno,69,g,Alimenti,250,17.5,8.3,26.3,2,102,209
+2026-10-27,20:00,Dinner,Patate,129,g,Alimenti,250,17.5,8.3,26.3,4.5,477,254
+2026-10-27,20:00,Dinner,Verdure grigliate,121,g,Alimenti,250,17.5,8.3,26.3,2.3,53,131
+2026-10-28,07:30,Breakfast,Yogurt greco naturale,208,g,Alimenti,130,9.1,4.3,13.7,1.6,188,443
+2026-10-28,07:30,Breakfast,Avena,146,g,Alimenti,130,9.1,4.3,13.7,1.4,464,226
+2026-10-28,07:30,Breakfast,Banana,90,g,Alimenti,130,9.1,4.3,13.7,1.6,249,247
+2026-10-28,13:00,Lunch,Pasta integrale,125,g,Alimenti,146,10.3,4.9,15.4,3.9,464,250
+2026-10-28,13:00,Lunch,Petto di pollo,174,g,Alimenti,146,10.3,4.9,15.4,6,134,256
+2026-10-28,13:00,Lunch,Insalata mista,226,g,Alimenti,146,10.3,4.9,15.4,4.8,34,204
+2026-10-28,13:00,Lunch,Olio extravergine,172,g,Alimenti,146,10.3,4.9,15.4,3,437,133
+2026-10-28,16:30,Snacks,Mandorle,97,g,Alimenti,89,6.2,3,9.3,5.2,155,422
+2026-10-28,16:30,Snacks,Mela,134,g,Alimenti,89,6.2,3,9.3,3.3,100,237
+2026-10-28,20:00,Dinner,Salmone al forno,171,g,Alimenti,207,14.5,6.9,21.7,4.6,29,311
+2026-10-28,20:00,Dinner,Patate,92,g,Alimenti,207,14.5,6.9,21.7,3.8,383,510
+2026-10-28,20:00,Dinner,Verdure grigliate,92,g,Alimenti,207,14.5,6.9,21.7,5.4,301,97
+2026-10-29,07:30,Breakfast,Yogurt greco naturale,189,g,Alimenti,151,10.6,5,15.8,2.3,133,205
+2026-10-29,07:30,Breakfast,Avena,128,g,Alimenti,151,10.6,5,15.8,0.6,72,256
+2026-10-29,07:30,Breakfast,Banana,111,g,Alimenti,151,10.6,5,15.8,3,404,553
+2026-10-29,13:00,Lunch,Pasta integrale,119,g,Alimenti,170,11.9,5.7,17.8,5.4,448,450
+2026-10-29,13:00,Lunch,Petto di pollo,70,g,Alimenti,170,11.9,5.7,17.8,1,290,152
+2026-10-29,13:00,Lunch,Insalata mista,207,g,Alimenti,170,11.9,5.7,17.8,3.7,52,568
+2026-10-29,13:00,Lunch,Olio extravergine,245,g,Alimenti,170,11.9,5.7,17.8,5.9,356,351
+2026-10-29,16:30,Snacks,Mandorle,81,g,Alimenti,103,7.2,3.4,10.8,5.4,387,367
+2026-10-29,16:30,Snacks,Mela,129,g,Alimenti,103,7.2,3.4,10.8,4.9,469,296
+2026-10-29,20:00,Dinner,Salmone al forno,169,g,Alimenti,240,16.8,8,25.2,3.6,196,283
+2026-10-29,20:00,Dinner,Patate,62,g,Alimenti,240,16.8,8,25.2,1.5,63,386
+2026-10-29,20:00,Dinner,Verdure grigliate,80,g,Alimenti,240,16.8,8,25.2,2,265,240
+2026-10-30,07:30,Breakfast,Yogurt greco naturale,90,g,Alimenti,129,9,4.3,13.5,2.3,261,539
+2026-10-30,07:30,Breakfast,Avena,189,g,Alimenti,129,9,4.3,13.5,2,108,477
+2026-10-30,07:30,Breakfast,Banana,85,g,Alimenti,129,9,4.3,13.5,4.9,497,158
+2026-10-30,13:00,Lunch,Pasta integrale,155,g,Alimenti,145,10.2,4.8,15.2,4.8,340,256
+2026-10-30,13:00,Lunch,Petto di pollo,97,g,Alimenti,145,10.2,4.8,15.2,1.5,394,443
+2026-10-30,13:00,Lunch,Insalata mista,60,g,Alimenti,145,10.2,4.8,15.2,4.4,152,414
+2026-10-30,13:00,Lunch,Olio extravergine,54,g,Alimenti,145,10.2,4.8,15.2,2.7,73,136
+2026-10-30,16:30,Snacks,Mandorle,196,g,Alimenti,88,6.2,2.9,9.2,5.4,151,398
+2026-10-30,16:30,Snacks,Mela,219,g,Alimenti,88,6.2,2.9,9.2,1.3,152,563
+2026-10-30,20:00,Dinner,Salmone al forno,223,g,Alimenti,205,14.4,6.8,21.6,4.5,167,353
+2026-10-30,20:00,Dinner,Patate,184,g,Alimenti,205,14.4,6.8,21.6,2.9,263,397
+2026-10-30,20:00,Dinner,Verdure grigliate,54,g,Alimenti,205,14.4,6.8,21.6,2.2,285,320
+2026-10-31,07:30,Breakfast,Yogurt greco naturale,78,g,Alimenti,194,13.6,6.5,20.4,3.6,379,491
+2026-10-31,07:30,Breakfast,Avena,66,g,Alimenti,194,13.6,6.5,20.4,3.3,344,544
+2026-10-31,07:30,Breakfast,Banana,144,g,Alimenti,194,13.6,6.5,20.4,1.4,463,515
+2026-10-31,13:00,Lunch,Pasta integrale,84,g,Alimenti,218,15.3,7.3,22.9,3,92,427
+2026-10-31,13:00,Lunch,Petto di pollo,153,g,Alimenti,218,15.3,7.3,22.9,5.4,157,365
+2026-10-31,13:00,Lunch,Insalata mista,224,g,Alimenti,218,15.3,7.3,22.9,3.1,127,222
+2026-10-31,13:00,Lunch,Olio extravergine,150,g,Alimenti,218,15.3,7.3,22.9,3.1,394,329
+2026-10-31,16:30,Snacks,Mandorle,246,g,Alimenti,132,9.3,4.4,13.9,0.8,418,135
+2026-10-31,16:30,Snacks,Mela,250,g,Alimenti,132,9.3,4.4,13.9,2.7,455,78
+2026-10-31,20:00,Dinner,Salmone al forno,212,g,Alimenti,309,21.6,10.3,32.4,4.9,300,524
+2026-10-31,20:00,Dinner,Patate,65,g,Alimenti,309,21.6,10.3,32.4,3.6,401,273
+2026-10-31,20:00,Dinner,Verdure grigliate,102,g,Alimenti,309,21.6,10.3,32.4,5.6,159,591
+2026-11-01,07:30,Breakfast,Yogurt greco naturale,217,g,Alimenti,139,9.7,4.6,14.6,1.1,54,141
+2026-11-01,07:30,Breakfast,Avena,182,g,Alimenti,139,9.7,4.6,14.6,0.6,387,525
+2026-11-01,07:30,Breakfast,Banana,174,g,Alimenti,139,9.7,4.6,14.6,5.4,339,246
+2026-11-01,13:00,Lunch,Pasta integrale,108,g,Alimenti,157,11,5.2,16.5,4.3,76,551
+2026-11-01,13:00,Lunch,Petto di pollo,121,g,Alimenti,157,11,5.2,16.5,4.7,24,431
+2026-11-01,13:00,Lunch,Insalata mista,249,g,Alimenti,157,11,5.2,16.5,1,372,476
+2026-11-01,13:00,Lunch,Olio extravergine,146,g,Alimenti,157,11,5.2,16.5,1.6,370,93
+2026-11-01,16:30,Snacks,Mandorle,223,g,Alimenti,95,6.6,3.2,10,3.6,327,394
+2026-11-01,16:30,Snacks,Mela,180,g,Alimenti,95,6.6,3.2,10,3.1,133,171
+2026-11-01,20:00,Dinner,Salmone al forno,148,g,Alimenti,222,15.5,7.4,23.3,3.6,108,526
+2026-11-01,20:00,Dinner,Patate,154,g,Alimenti,222,15.5,7.4,23.3,6,60,559
+2026-11-01,20:00,Dinner,Verdure grigliate,81,g,Alimenti,222,15.5,7.4,23.3,1,192,123
